@@ -8,7 +8,7 @@ The number is odd.
 
 package program5;
 
-public class EvenOddNumber {
+public class EvenOrOddNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
